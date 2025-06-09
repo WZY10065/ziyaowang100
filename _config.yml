@@ -25,9 +25,9 @@ author:
   avatar           : "wangziyao_profile.jpg"
   name             : "Ziyao Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Researcher on Power Distribution Network Planning
+  location         : "Guangzhou"
+  employer         : "South China University of Technology"
   uri              : # URL
   email            : "none@example.org" 
 
